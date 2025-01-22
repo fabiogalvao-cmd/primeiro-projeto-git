@@ -27,7 +27,7 @@ button {
   border: none;
   width: 124px;
   height: 52px;
-
+cursor: pointer;
 }
 
 img {
@@ -74,10 +74,10 @@ p {
   cursor: pointer;
 }
 
-Learn :hover {
+Learn:hover {
   opacity: 1.0;
 }
-Learn :active {
+Learn:active {
   opacity: 0.6;
 }
 
